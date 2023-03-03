@@ -1,14 +1,3 @@
-fileFormatVersion: 2
-guid: 92563eccfe776c74f8abaddea49323c1
-MonoImporter:
-  externalObjects: {}
-  serializedVersion: 2
-  defaultReferences:
-  - player: {instanceID: 0}
-  - respawnPoint: {fileID: 1148177021094663580, guid: b10831dd91b250e46b56975c500dd033,
-      type: 3}
-  executionOrder: 0
-  icon: {instanceID: 0}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d5558d0fc0ae717e56cc2315ddda3648a0d8d947823e07fad540a917b664144
+size 371
